@@ -28,7 +28,6 @@ It has been cleaned to remove inconsistencies, missing values, and formatting is
 - **Price** – Property value  
 - **Status** – Sold / Available / Under Contract  
 
-*(Column names may vary based on the final cleaned structure.)*
 
 
 ## 🎯 Use Cases
