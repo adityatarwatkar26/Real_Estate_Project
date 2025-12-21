@@ -5,7 +5,7 @@
 <img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/2213dae8-146c-438a-a825-3ef8640627fb" />
 
 
-## 📌 Project Overview
+# 📌 Project Overview
 This repository contains a **cleaned and structured real estate dataset** designed for **data analysis, visualization, and BI dashboard creation**.  
 The dataset is ideal for practicing tools like **Power BI, Tableau, Excel, and SQL**, and for building end-to-end analytics projects.
 The dataset represents real estate information related to **properties, owners, agents, and offices**.  
@@ -13,8 +13,6 @@ It has been cleaned to remove inconsistencies, missing values, and formatting is
 
 
 ## 🗂 File Structure
-
-📦 Real-Estate-Analytics
 ┣ 📄 Real_estate_cleaned_data.xlsx
 ┣ 📄 README.md
 
