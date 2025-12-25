@@ -45,6 +45,38 @@ It has been cleaned to remove inconsistencies, missing values, and formatting is
 - Improved overall data consistency  
 
 
+<img width="1332" height="743" alt="Screenshot 2025-12-21 171805" src="https://github.com/user-attachments/assets/29f57db8-0917-428b-afa8-bc0bbe22dd83" />
+
+## 📌 Dashboard Overview
+This dashboard provides a high-level overview of the Texas real estate market, highlighting property listings, sales performance, pricing trends, and city-wise distribution.
+
+## 📊 Key Metrics Summary
+- **Total Properties Listed:** 10,000  
+- **Total Sales Count:** 5,040  
+- **Average Property Price:** 489.59K  
+- **Average Price per Sqft:** 174.90  
+
+---
+
+## 📍 Market Insights
+- The real estate market shows **high activity** with a large number of listings and sales.
+- **Dallas** dominates in terms of total property units, making it the most active city.
+- **Austin** and **Houston** follow, showing strong urban demand.
+- The **Dallas–Austin–Houston corridor** represents the core real estate activity zone.
+- **Apartments and Villas** contribute the highest share among property types.
+- Property prices indicate a **stable mid-to-high value market**.
+
+## 🏘️ Property Type Distribution
+- Apartments and Villas are the most common property types.
+- Houses, Condos, and Duplexes are evenly distributed, indicating diversified inventory.
+
+## 🎯 Use Cases
+- Market trend analysis for real estate investors
+- City-level comparison for business decisions
+- Pricing insights for buyers and sellers
+- Dashboard demonstration for Power BI learning projects
+
+
 ## 🛠 Tools Recommended
 - Microsoft Power BI  
 - Tableau  
