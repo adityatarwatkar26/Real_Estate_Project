@@ -295,6 +295,40 @@ This dashboard provides a neighborhood-level analysis covering income, property 
 - Real estate investment location assessment
 - Power BI neighborhood analytics demonstration
 
+# 📌 Dashboard Overview
+The portfolio consists of **5 unique** owners managing properties across **483 zip codes**, indicating wide geographic diversification.
+<img width="1331" height="746" alt="Screenshot 2025-12-21 171959" src="https://github.com/user-attachments/assets/060a8294-9f81-47a5-b8f3-b5eb256c9697" />
+## 🏘️ Property Distribution
+- Properties are evenly spread across types such as **Apartments, Condos, Duplexes, Villas, and Houses**.
+- No single property type dominates, showing a **balanced investment approach**.
+
+## 🌍 Geographic Coverage
+- Properties are distributed **globally**, covering:
+  - North America
+  - Europe
+  - Asia
+  - South America
+  - Africa
+  - Australia
+- This global spread helps in **reducing regional market risk**.
+
+## 🏙️ City-wise Ownership
+- Ownership is equally divided among major cities:
+  - **Austin – 33.33%**
+  - **Houston – 33.33%**
+  - **Dallas – 33.33%**
+- Reflects **uniform city-level investment**.
+
+## 📄 Owner Information
+- Detailed owner records available, including:
+  - Contact number
+  - Email ID
+  - Address
+  - City and Zip Code
+- Supports **effective portfolio management and tracking**.
+
+## 🎯 Key Takeaway
+- The dashboard represents a **well-balanced, diversified, and globally invested real estate portfolio**, suitable for **stable and low-risk investment planning**.
 
 ## 🎯 Use Cases
 - Market trend analysis for real estate investors
