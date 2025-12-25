@@ -167,6 +167,37 @@ This dashboard focuses on property size and area-based analysis, providing insig
 - Inventory planning and segmentation
 - Power BI area and benchmarking analysis demonstration
 
+
+## 📌 Dashboard Overview
+This dashboard analyzes property age, construction period, condition status, and pricing impact to understand how property quality and age influence market value.
+<img width="1339" height="738" alt="Screenshot 2025-12-21 171905" src="https://github.com/user-attachments/assets/de3d21fb-39ef-4fac-9fbf-6e0daa479b80" />
+## 🕰️ Key Age & Price Metrics
+- **Oldest Property Built:** 5 March 1905  
+- **Price Range Filter:** 80K – 900K  
+
+
+## 🧠 Key Insights
+- Properties span a **wide construction timeline**, showing both heritage and modern inventory.
+- **Villas and Apartments** include some of the oldest constructions, indicating long-term residential demand.
+- Property condition is **evenly distributed** across Excellent, Good, Average, and Poor (~25% each).
+- **Excellent-condition properties** command the **highest average listed prices**.
+- Even **Average-condition properties** maintain strong pricing, showing market stability.
+- Poor-condition properties show relatively lower prices but still hold significant market value.
+
+
+## 🏘️ Condition vs Pricing Analysis
+- Average price per sqft increases with better **property condition**.
+- Apartments and Condos in **Excellent or Good condition** show higher price efficiency.
+- Property size remains relatively consistent across condition categories.
+
+
+## 🎯 Use Cases
+- Property age and renovation impact analysis
+- Pricing strategy based on condition
+- Filtering properties by build year and value
+- Power BI condition-based analytical dashboards
+
+
 ## 🎯 Use Cases
 - Market trend analysis for real estate investors
 - City-level comparison for business decisions
