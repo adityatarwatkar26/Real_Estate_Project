@@ -197,6 +197,104 @@ This dashboard analyzes property age, construction period, condition status, and
 - Filtering properties by build year and value
 - Power BI condition-based analytical dashboards
 
+## 📌 Dashboard Overview
+This dashboard provides a comprehensive view of real estate agent performance, focusing on listings, sales, revenue contribution, experience, and regional distribution.
+<img width="1332" height="743" alt="Screenshot 2025-12-21 171921" src="https://github.com/user-attachments/assets/df58aef3-0680-4ad8-81a3-74cd92156777" />
+## 🔢 Key Performance Metrics
+- **Total Listings:** 10,000  
+- **Total Sales:** 5,040  
+- **Total Agents:** 300  
+- **Average Revenue per Agent:** 611.99M  
+
+
+
+## 🌍 Regional Distribution Insights
+- **South region** leads in agent presence, followed closely by **West** and **East**.
+- **North region** has comparatively fewer agents, indicating potential expansion opportunities.
+- Agent distribution across regions remains fairly balanced overall.
+
+
+
+## 🧠 Performance & Experience Insights
+- Agents with **mid-to-high experience levels** show higher consistency in performance.
+- Revenue contribution varies significantly among agents, highlighting **top performers**.
+- Experience does not always linearly correlate with revenue, suggesting skill and market factors matter.
+
+
+## 💰 Revenue & Productivity Analysis
+- A small group of agents contributes a **large share of total revenue**.
+- Incremental revenue growth across agents shows steady performance improvements.
+- License-level analysis helps identify high-value certified agents.
+
+
+## 📋 Agent Profile Summary
+- Agent activity is evenly spread across **300 licensed professionals**.
+- Top agents manage higher listings and office associations.
+- Years of experience and license status influence overall contribution.
+
+
+## 🎯 Use Cases
+- Agent performance evaluation and ranking
+- Regional workforce planning
+- Incentive and commission strategy design
+- Power BI agent analytics demonstration
+
+## 📌 Dashboard Overview
+This dashboard uses a decomposition tree to break down **market value and listed price** by key drivers such as city count, property type, and furnishing status to identify what contributes most to property value.
+<img width="1336" height="745" alt="Screenshot 2025-12-21 171932" src="https://github.com/user-attachments/assets/328168ad-8147-463e-a67e-a75b7befdd78" />
+## 🧠 Key Insights
+- **Property Type** is a major driver of market value, with **Apartments** contributing significantly.
+- **Furnished properties** show the highest market value compared to semi-furnished and unfurnished options.
+- Market value varies noticeably across **furnishing status**, highlighting its strong pricing impact.
+- Even within the same property type, **listed prices differ**, indicating pricing strategy variations.
+- Cities contribute evenly, suggesting **location consistency** across selected filters.
+- Smaller value segments highlight **micro-level pricing differences** within categories.
+
+
+## 📊 Value Breakdown Observations
+- Furnished apartments command **premium market value**.
+- Semi-furnished and unfurnished properties cluster around lower value bands.
+- Listed price distribution shows how market value is further split into sale expectations.
+
+
+## 🎯 Use Cases
+- Identify key drivers impacting market value
+- Compare pricing impact of furnishing status
+- Drill down into value contributors using Power BI decomposition tree
+- Support pricing and listing strategy decisions
+
+
+## 📌 Dashboard Overview
+This dashboard provides a neighborhood-level analysis covering income, property distribution, education quality, walkability, and crime rates across major cities to support location-based real estate decisions.
+<img width="1331" height="741" alt="Screenshot 2025-12-21 171943" src="https://github.com/user-attachments/assets/392d2ae6-ae4e-4874-aedc-721a76fe2cb7" />
+## 🔢 Key Neighborhood Metrics
+- **Average Income:** 73.68K  
+- **Total Properties:** 200  
+- **Total Owners:** 5  
+- **Average School Rating:** 5.42  
+
+
+## 🧠 Key Insights
+- **Austin** shows the highest contribution in school ratings and crime rate share, indicating active but competitive neighborhoods.
+- **Houston** closely follows Austin in school ratings and crime distribution.
+- **Dallas** has comparatively lower crime share and moderate school ratings.
+- Property distribution is well spread across **Austin, Dallas, and Houston**.
+- Neighborhoods show a **balanced mix of Apartments, Condos, Houses, Duplexes, and Villas**.
+- Walkability score indicates **moderate accessibility**, suitable for urban living.
+
+
+## 🎓 Education & Safety Analysis
+- School ratings are fairly balanced across cities with no extreme outliers.
+- Higher crime rates correlate with higher urban activity zones.
+- Neighborhoods with balanced crime and school ratings indicate stable residential appeal.
+
+
+## 🎯 Use Cases
+- Neighborhood comparison for home buyers
+- City-wise livability analysis
+- Real estate investment location assessment
+- Power BI neighborhood analytics demonstration
+
 
 ## 🎯 Use Cases
 - Market trend analysis for real estate investors
