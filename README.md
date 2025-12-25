@@ -71,7 +71,7 @@ This dashboard provides a high-level overview of the Texas real estate market, h
 
 
 
-##  Dashboard Overview
+## 📌Dashboard Overview
 This dashboard highlights overall sales performance in the real estate market, focusing on units sold, revenue, pricing trends, property categories, and city-wise contribution.
 <img width="1332" height="746" alt="Screenshot 2025-12-21 171818" src="https://github.com/user-attachments/assets/3d10379d-d3fe-4d5e-9177-fb28e44de57e" />
 
