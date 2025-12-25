@@ -104,6 +104,69 @@ This dashboard highlights overall sales performance in the real estate market, f
 - Power BI dashboard demonstration and learning
 
 
+## 📌 Dashboard Overview
+This dashboard enables detailed comparison and filtering of properties based on price, city, property type, area, and furnishing/condition status to support informed real estate decision-making.
+<img width="1327" height="745" alt="Screenshot 2025-12-21 171835" src="https://github.com/user-attachments/assets/1c6726c0-beb6-4c13-84f6-f4efc8917f19" />
+
+## 🔢 Key Metrics
+- **Total Property Listed Price:** 5 Billion  
+- **Total Area Accumulation:** 28 Million Sq. Ft  
+
+
+## 🧠 Key Insights
+- **Unknown and Duplex** categories show the highest listed price difference, indicating premium or mixed-use properties.
+- **Villas and Condos** maintain consistently high price values, reflecting strong demand.
+- **Apartments** show slightly lower price levels but remain high-volume contributors.
+- **Mid-range price bands (2L–5L and 5L–7L)** dominate the pricing structure.
+- **Austin, Dallas, and Houston** are the primary cities driving property listings.
+- Properties with **good or excellent condition** and **furnished/semi-furnished** status tend to have higher market value.
+
+
+## 🏗️ Detailed Property Analysis
+- Area accumulation highlights strong inventory availability across selected filters.
+- Tabular view allows granular analysis by **city, property type, size, furnishing, and condition**.
+- Price distribution supports effective comparison across multiple price ranges.
+
+
+## 🎯 Use Cases
+- Property comparison and shortlisting
+- Price range and area-based analysis
+- City-wise and property-type filtering
+- Advanced Power BI filtering and drill-down demonstration
+
+
+## 📌 Dashboard Overview
+This dashboard focuses on property size and area-based analysis, providing insights into square footage distribution, area ranges, and the relationship between property size and pricing.
+<img width="1331" height="745" alt="Screenshot 2025-12-21 171849" src="https://github.com/user-attachments/assets/17cc122c-c9dd-40b8-a125-e835aa466680" />
+
+## 🔢 Key Area Metrics
+- **Minimum Area:** 600 Sq. Ft  
+- **Average Area:** 2.8K Sq. Ft  
+- **Maximum Area:** 5,000 Sq. Ft  
+- **Total Area Covered:** 28 Million Sq. Ft  
+
+
+## 🧠 Key Insights
+- Most properties fall within the **mid-size range**, indicating balanced residential demand.
+- **Villas and Apartments** contribute slightly higher average area compared to other property types.
+- Area distribution across property types is **evenly spread**, showing diversified inventory.
+- **House and Villa** segments show higher price benchmarks with larger square footage.
+- The **area group share** is almost equally distributed across property types (~20% each).
+- Larger square footage generally correlates with **higher listed prices**, as seen in benchmarking.
+
+
+## 📊 Detailed Observations
+- The summary table highlights **consistent area contribution** from all property categories.
+- Properties labeled as **Unknown** also contribute significantly to total area and value.
+- Square footage and pricing benchmarks help identify **premium vs standard** property segments.
+
+
+## 🎯 Use Cases
+- Area-based property comparison
+- Pricing analysis by property size
+- Inventory planning and segmentation
+- Power BI area and benchmarking analysis demonstration
+
 ## 🎯 Use Cases
 - Market trend analysis for real estate investors
 - City-level comparison for business decisions
