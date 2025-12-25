@@ -69,6 +69,39 @@ This dashboard provides a high-level overview of the Texas real estate market, h
 - Apartments and Villas are the most common property types.
 - Houses, Condos, and Duplexes are evenly distributed, indicating diversified inventory.
 
+##  Dashboard Overview
+This dashboard highlights overall sales performance in the real estate market, focusing on units sold, revenue, pricing trends, property categories, and city-wise contribution.
+<img width="1332" height="746" alt="Screenshot 2025-12-21 171818" src="https://github.com/user-attachments/assets/3d10379d-d3fe-4d5e-9177-fb28e44de57e" />
+
+## 🔢 Key Performance Metrics
+- **Total Units Sold:** 5,040  
+- **Total Revenue:** 5 Billion  
+- **Maximum Property Price:** 900K  
+- **Average Property Price:** 489.59K
+  
+
+## 🧠 Key Insights
+- Strong sales performance with **5,040 units sold**, generating **5bn revenue**.
+- **Villas and Apartments** show the highest listed prices among property categories.
+- **Average property price** indicates a stable mid-range market.
+- **Apartments** contribute the highest share to total sales, followed closely by Houses and Villas.
+- **Sales listings** dominate compared to Lease and Rent, showing a buyer-driven market.
+- **Dallas, Austin, and Houston** are the major contributing cities to sales volume.
+
+
+## 🏘️ Property Type Performance
+- Apartments lead in total sales contribution.
+- Sales distribution across property types is well-balanced, reducing dependency on a single category.
+- Duplex and Condo segments show moderate but consistent performance.
+
+
+## 🎯 Use Cases
+- Sales trend analysis for management and stakeholders
+- Property category performance comparison
+- Revenue and pricing strategy planning
+- Power BI dashboard demonstration and learning
+
+
 ## 🎯 Use Cases
 - Market trend analysis for real estate investors
 - City-level comparison for business decisions
