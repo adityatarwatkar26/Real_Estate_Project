@@ -45,7 +45,7 @@ It has been cleaned to remove inconsistencies, missing values, and formatting is
 - Improved overall data consistency  
 
 
-## 📌 Dashboard Overview
+# 📌 Dashboard Overview
 This dashboard provides a high-level overview of the Texas real estate market, highlighting property listings, sales performance, pricing trends, and city-wise distribution.
 <img width="1332" height="743" alt="Screenshot 2025-12-21 171805" src="https://github.com/user-attachments/assets/29f57db8-0917-428b-afa8-bc0bbe22dd83" />
 
@@ -71,7 +71,7 @@ This dashboard provides a high-level overview of the Texas real estate market, h
 
 
 
-## 📌Dashboard Overview
+# 📌Dashboard Overview
 This dashboard highlights overall sales performance in the real estate market, focusing on units sold, revenue, pricing trends, property categories, and city-wise contribution.
 <img width="1332" height="746" alt="Screenshot 2025-12-21 171818" src="https://github.com/user-attachments/assets/3d10379d-d3fe-4d5e-9177-fb28e44de57e" />
 
@@ -104,7 +104,7 @@ This dashboard highlights overall sales performance in the real estate market, f
 - Power BI dashboard demonstration and learning
 
 
-## 📌 Dashboard Overview
+# 📌 Dashboard Overview
 This dashboard enables detailed comparison and filtering of properties based on price, city, property type, area, and furnishing/condition status to support informed real estate decision-making.
 <img width="1327" height="745" alt="Screenshot 2025-12-21 171835" src="https://github.com/user-attachments/assets/1c6726c0-beb6-4c13-84f6-f4efc8917f19" />
 
@@ -135,7 +135,7 @@ This dashboard enables detailed comparison and filtering of properties based on 
 - Advanced Power BI filtering and drill-down demonstration
 
 
-## 📌 Dashboard Overview
+# 📌 Dashboard Overview
 This dashboard focuses on property size and area-based analysis, providing insights into square footage distribution, area ranges, and the relationship between property size and pricing.
 <img width="1331" height="745" alt="Screenshot 2025-12-21 171849" src="https://github.com/user-attachments/assets/17cc122c-c9dd-40b8-a125-e835aa466680" />
 
@@ -168,7 +168,7 @@ This dashboard focuses on property size and area-based analysis, providing insig
 - Power BI area and benchmarking analysis demonstration
 
 
-## 📌 Dashboard Overview
+# 📌 Dashboard Overview
 This dashboard analyzes property age, construction period, condition status, and pricing impact to understand how property quality and age influence market value.
 <img width="1339" height="738" alt="Screenshot 2025-12-21 171905" src="https://github.com/user-attachments/assets/de3d21fb-39ef-4fac-9fbf-6e0daa479b80" />
 ## 🕰️ Key Age & Price Metrics
@@ -197,7 +197,7 @@ This dashboard analyzes property age, construction period, condition status, and
 - Filtering properties by build year and value
 - Power BI condition-based analytical dashboards
 
-## 📌 Dashboard Overview
+# 📌 Dashboard Overview
 This dashboard provides a comprehensive view of real estate agent performance, focusing on listings, sales, revenue contribution, experience, and regional distribution.
 <img width="1332" height="743" alt="Screenshot 2025-12-21 171921" src="https://github.com/user-attachments/assets/df58aef3-0680-4ad8-81a3-74cd92156777" />
 ## 🔢 Key Performance Metrics
@@ -239,7 +239,7 @@ This dashboard provides a comprehensive view of real estate agent performance, f
 - Incentive and commission strategy design
 - Power BI agent analytics demonstration
 
-## 📌 Dashboard Overview
+# 📌 Dashboard Overview
 This dashboard uses a decomposition tree to break down **market value and listed price** by key drivers such as city count, property type, and furnishing status to identify what contributes most to property value.
 <img width="1336" height="745" alt="Screenshot 2025-12-21 171932" src="https://github.com/user-attachments/assets/328168ad-8147-463e-a67e-a75b7befdd78" />
 ## 🧠 Key Insights
@@ -264,7 +264,7 @@ This dashboard uses a decomposition tree to break down **market value and listed
 - Support pricing and listing strategy decisions
 
 
-## 📌 Dashboard Overview
+# 📌 Dashboard Overview
 This dashboard provides a neighborhood-level analysis covering income, property distribution, education quality, walkability, and crime rates across major cities to support location-based real estate decisions.
 <img width="1331" height="741" alt="Screenshot 2025-12-21 171943" src="https://github.com/user-attachments/assets/392d2ae6-ae4e-4874-aedc-721a76fe2cb7" />
 ## 🔢 Key Neighborhood Metrics
