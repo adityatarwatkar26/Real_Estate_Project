@@ -330,6 +330,64 @@ The portfolio consists of **5 unique** owners managing properties across **483 z
 ## 🎯 Key Takeaway
 - The dashboard represents a **well-balanced, diversified, and globally invested real estate portfolio**, suitable for **stable and low-risk investment planning**.
 
+# 📌 Dashboard Overview
+- The organization operates **50 offices** managed by **3 regional managers**.
+- Total active property listings stand at **10,000**, reflecting large-scale operations.
+<img width="1333" height="744" alt="Screenshot 2025-12-21 172018" src="https://github.com/user-attachments/assets/68c5924a-e36a-4707-8e9e-0b4d1de181ac" />
+
+## 👥 Agent Productivity
+- The **average sales per agent is 1.98**, indicating steady but improvable individual performance.
+- Agent allocation across offices appears **well-distributed**, avoiding over-concentration.
+
+## 🗺️ Regional Presence
+- Offices show strong regional coverage, with **Office 15, Office 28, and Office 6** leading in regional presence.
+- Consistent regional spread supports **market reach and brand visibility**.
+
+## 🏙️ City-wise Office Distribution
+- **Dallas** hosts the highest number of offices (**22**), making it the primary hub.
+- **Houston** follows with **18 offices**.
+- **Austin** has **10 offices**, indicating growth potential.
+
+## 📊 Agent Distribution by Office
+- Agents are **evenly distributed across most offices**, with no extreme outliers.
+- This balance helps maintain **operational efficiency and workload fairness**.
+
+## 📂 Office Directory Insights
+- Offices are mainly concentrated in **Dallas, Houston, and Austin**.
+- Management responsibilities are shared among **Bob Head, John Manager, and Sally Lead**, ensuring leadership continuity.
+
+## 🎯 Key Takeaway
+- The dashboard highlights a **scalable and balanced office network** with strong city coverage and stable agent performance, while indicating **opportunities to improve agent productivity**.
+
+# 📌Dashboard Overview
+- The portfolio covers **1,000 properties** across multiple offices and cities.
+- Properties are managed under a structured **office-wise and owner-wise hierarchy**.
+<img width="1336" height="744" alt="Screenshot 2025-12-21 172035" src="https://github.com/user-attachments/assets/8f88d447-d12e-46d8-ae41-4e35c8c46abb" />
+
+## 🏠 Property Type Mix
+- The portfolio includes **Apartments, Condos, Duplexes, Houses, and Villas**.
+- **Apartments dominate** the portfolio, indicating a focus on high-density residential assets.
+
+## 📐 Size & Pricing Trends
+- Average property size is approximately **2,799 sq. ft.**
+- The **average price per square foot is ~174.90**, showing mid-range market positioning.
+- Total listed portfolio value exceeds **4.89 billion**, reflecting a high-value asset base.
+
+## 🛏️ Bedrooms & Bathrooms
+- The portfolio includes a wide mix of **1 to 6+ bedrooms and bathrooms**.
+- This variation supports **different buyer and tenant segments**.
+
+## 🏙️ City & Office Distribution
+- Properties are mainly concentrated in **Dallas, Houston, and Austin**.
+- Multiple offices contribute evenly, reducing dependency on a single location.
+
+## 🧱 Property Condition
+- Most properties fall under **Good, Average, or Excellent** condition.
+- A smaller portion marked as **Poor** highlights **renovation or upgrade opportunities**.
+
+## 🎯 Key Takeaway
+- The dashboard presents a **large, diversified, and high-value real estate portfolio** with balanced property types, stable pricing, and opportunities for **value enhancement through selective improvements**.
+
 ## 🎯 Use Cases
 - Market trend analysis for real estate investors
 - City-level comparison for business decisions
