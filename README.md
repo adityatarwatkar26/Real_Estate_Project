@@ -45,10 +45,9 @@ It has been cleaned to remove inconsistencies, missing values, and formatting is
 - Improved overall data consistency  
 
 
-<img width="1332" height="743" alt="Screenshot 2025-12-21 171805" src="https://github.com/user-attachments/assets/29f57db8-0917-428b-afa8-bc0bbe22dd83" />
-
 ## 📌 Dashboard Overview
 This dashboard provides a high-level overview of the Texas real estate market, highlighting property listings, sales performance, pricing trends, and city-wise distribution.
+<img width="1332" height="743" alt="Screenshot 2025-12-21 171805" src="https://github.com/user-attachments/assets/29f57db8-0917-428b-afa8-bc0bbe22dd83" />
 
 ## 📊 Key Metrics Summary
 - **Total Properties Listed:** 10,000  
