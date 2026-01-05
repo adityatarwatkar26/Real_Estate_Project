@@ -170,7 +170,8 @@ This dashboard focuses on property size and area-based analysis, providing insig
 
 # 📌 Dashboard Overview
 This dashboard analyzes property age, construction period, condition status, and pricing impact to understand how property quality and age influence market value.
-<img width="1339" height="738" alt="Screenshot 2025-12-21 171905" src="https://github.com/user-attachments/assets/de3d21fb-39ef-4fac-9fbf-6e0daa479b80" />
+<img width="1556" height="799" alt="Screenshot 2026-01-05 230115" src="https://github.com/user-attachments/assets/1712a4ca-8e23-4e41-a2d8-795b7532ca51" />
+
 ## 🕰️ Key Age & Price Metrics
 - **Oldest Property Built:** 5 March 1905  
 - **Price Range Filter:** 80K – 900K  
